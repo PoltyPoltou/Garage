@@ -1,0 +1,6 @@
+voiture Reno :Lagouna moteur Essence 150 Chevaux(10256.0€) [GPS (113.5€), Siège chauffant (562.9€), Vitre éléctrique (212.35€)] d'une valeur totale de 11144.75€
+voiture Pigeot :A300B moteur Electrique 1500 W(1234.0€) [Climatisation (347.3€), Barre de toit (29.9€), Siège chauffant (562.9€)] d'une valeur totale de 2174.1€
+voiture Troen :D4 moteur Diesel 200 Hdi(25684.8€) [Barre de toit (29.9€), Climatisation (347.3€), GPS (113.5€)] d'une valeur totale de 26175.5€
+voiture Reno :Lagouna moteur Diesel 500 Hdi(456987.0€) [Aucune options] d'une valeur totale de 456987.0€
+voiture Pigeot :A300B moteur Hybride ESSENCE/Electrique(12345.95€) [Vitre éléctrique (212.35€), Barre de toit (29.9€)] d'une valeur totale de 12588.2€
+voiture Troen :D4 moteur Electrique 100 KW(1224.0€) [Siège chauffant (562.9€), Barre de toit (29.9€), Climatisation (347.3€), GPS (113.5€), Vitre éléctrique (212.35€)] d'une valeur totale de 2489.9500000000003€
